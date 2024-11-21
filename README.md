@@ -8,7 +8,7 @@ Welcome to the curated list of **Black Friday and Cyber Monday 2024 deals**! Bel
 - 👉 Bookmark this page and return next year for even more Black Friday 2025 deals! 📆🤩
 
 ## Featured Deals
-| [PIMJO](https://pimjo.com/black-friday-cyber-monday-deal?ref=GH_Vinish)<br/> 🔥 60% OFF  | [SaaSBOld](https://saasbold.com/?ref=GH_Vinish) <br/> 🔥 Flat 40% OFF | [Your Product Here](#) <br/> 🔥 $$ OFF |
+| [PIMJO](https://pimjo.com/black-friday-cyber-monday-deal?ref=GH_Vinish)<br/> 🔥 60% OFF  | [SaaSBold](https://saasbold.com/?ref=GH_Vinish) <br/> 🔥 Flat 40% OFF | [Your Product Here](#) <br/> 🔥 $$ OFF |
 | ----- | ------ | -----|
 | ![Pimjo Black Friday Deals ](https://github.com/user-attachments/assets/6008da9a-a6fa-4c2b-aee4-eac0e2b84655) | ![SaaSBold - Black Friday Deals)](https://github.com/user-attachments/assets/0fad1af0-a4b7-4fcf-bdc5-1dd173ef3d5c) | ![Black Friday Deals ](https://github.com/user-attachments/assets/06f576ba-2d39-49e6-ae7d-f038561b4baf) |
 | Get up to 60% off on all Pimjo products! **BLFCM2024** <br/><br/>Get discounts on all Pimjo products 🤯, including SaaSBold, Lineicons, GrayGrids, UIdeck, TailGrids, Ayro UI, FormBold, and more! | Next.js SaaS boilerplate. <br/>**BLFCM2024**<br/><br/> Full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | Discount code: Your_Code <br/><br/> <br/><br/>Get your deal featured here, Contact [@Vinish Bhaskar](https://linkedin.com/in/vinishbhaskar)|
