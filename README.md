@@ -3,8 +3,9 @@
 Welcome to the curated list of **Black Friday and Cyber Monday 2024 deals**! Below, you'll find incredible deals on developer tools, design resources, productivity tools, AI tools, and more.
 
 **Don’t Forget to:**
-- 👉 Give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
-- 👉 Bookmark this page to come back next year for Black Friday 2025! 📆🤩
+- 👉 Add more amazing deals to the list via a Pull Request! 🚀
+- 👉 Star this repo to help it trend during Black Friday 2024! ⭐🤩
+- 👉 Bookmark this page and return next year for even more Black Friday 2025 deals! 📆🤩
 
 ## Featured Deals
 | [PIMJO](https://pimjo.com/black-friday-cyber-monday-deal?ref=GH_Vinish)<br/> 🔥 60% OFF  | [SaaSBOld](https://saasbold.com/?ref=GH_Vinish) <br/> 🔥 Flat 40% OFF | [Your Product Here](#) <br/> 🔥 $$ OFF |
