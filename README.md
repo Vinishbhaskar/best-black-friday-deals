@@ -102,6 +102,7 @@ Tools to enhance marketing efforts, including email automation, growth hacking s
 | -- | ---| ------ | ------ |
 |  🟢 | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24**
 |  🟢 | [Uneed](https://uneed.best) | Product Hunt alternative. | 30% off  with code **BLACKFRIDAY2024**
+|  🟢 | [SEOengine.ai](https://seoengine.ai) | AI-powered SEO optimization platform featuring 5 AI agents, AEO-optimization, and E-E-A-T compliance for better search rankings. | **35% OFF** with code **BLACKFRIDAY** (Valid Nov 17 - Dec 7)
 
 
 ### 9. Hosting 🌐
