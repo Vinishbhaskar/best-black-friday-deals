@@ -85,6 +85,8 @@ Explore deals on Artificial Intelligence-powered tools for development, design, 
 | -- | ---| ------ | ------ |
 |  🟢 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 |  🔵 | [Reinspire](https://reinspire.io) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
+| 🟣 | [SharpAPI](https://sharpapi.com/en/pricing?ref=vinishbfcm2025) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tagging, and custom workflows. Built for developers who want fast, reliable AI endpoints. | **50% OFF first year** with code **BF2025** |
+
 
 ### 7. Apps 💻
 Explore deals on Productivity apps, desktop applications, and software for developers and designers.
