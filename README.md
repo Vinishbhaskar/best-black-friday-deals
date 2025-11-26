@@ -29,7 +29,7 @@ To make it super easy for you to find what you need, we've categorized the deals
 ![Black Friday Deals 2024](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nxhfxxvyorovq0co8ht3.png)
 Let’s dive into the top deals explicitly curated for developers, designers, freelancers, and digital creators. 
 
-**Total Deal Count**: 36+ 
+**Total Deal Count**: 37+ 
 
 ### 1. Design Tools & Icon Libraries 🎨
 This category includes tools and resources that help designers create stunning visuals. From design tools like Figma and Adobe XD to icon libraries such as Lineicons, it’s the perfect place to find the tools that bring your ideas to life.
@@ -77,6 +77,7 @@ Deals in this category focus on backend development, including databases, server
 |  | Name | Description | Deal details (with Coupon) |
 | -- | ---| ------ | ------ |
 | 🔵 | [FormBold](https://formbold.com/) | Premium form solution featuring a powerful API and backend. Receive submissions via email, Slack, Notion, and more—no coding required. Seamless integration! | **40% OFF** with code **BLFCM2024** |
+| 🟢 | [DeployHQ](https://www.deployhq.com/) | Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations for your workflows. | **50% OFF** for 3 months (automatically applied for new customers) |
 
 ### 6. AI Tools 🤖
 Explore deals on Artificial Intelligence-powered tools for development, design, and automation.
