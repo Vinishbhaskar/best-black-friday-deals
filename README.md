@@ -85,6 +85,7 @@ Explore deals on Artificial Intelligence-powered tools for development, design, 
 | -- | ---| ------ | ------ |
 |  🟢 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 |  🔵 | [Reinspire](https://reinspire.io) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
+|  🟢 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | 50% OFF - $10/mo (annual) or $15/mo (monthly) with code **SUMMATEBF25** (expires Dec 5) |
 
 ### 7. Apps 💻
 Explore deals on Productivity apps, desktop applications, and software for developers and designers.
