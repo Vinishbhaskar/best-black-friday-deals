@@ -93,6 +93,9 @@ Explore deals on Productivity apps, desktop applications, and software for devel
 | -- | ---| ------ | ------ |
 | 🟢 | [PortDroid](https://portdroid.net/black-friday-2024/) | A swiss army knife of network security tools for Android | Lifetime 50% off with code `CYBER_2024 ` |
 | 🟢| [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
+| 🔵 | [Presentify](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. Native Mac app for presentations, calls, demos, and teaching. One-time purchase. | 30% OFF with code **PRESENTIFY30**, Nov 18 - Dec 2, 2026 (direct purchase from the website) |
+| 🔵 | [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad. One-time purchase. | 30% OFF with code **FACESCREEN30**, Nov 18 - Dec 2, 2026 (direct purchase from the website) |
+| 🔵 | [KeyScreen](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase. | 30% OFF with code **KEYSCREEN30**, Nov 18 - Dec 2, 2026 (direct purchase from the website) |
 
 
 ### 8. Marketing Tools 🌈
